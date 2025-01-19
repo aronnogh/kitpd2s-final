@@ -92,10 +92,10 @@ const Leaders = () => {
 
     <footer className="w-full mt-6">
       <nav className="flex justify-center lg:justify-start gap-6">
-        <a href={member.insta} className="text-pink-500 hover:text-pink-400 transition-transform transform hover:scale-110" aria-label="Instagram">
+        <a target='_blank' href={`https://www.instagram.com/${member.insta}`} className="text-pink-500 hover:text-pink-400 transition-transform transform hover:scale-110" aria-label="Instagram">
           <FaInstagram size={28} />
         </a>
-        <a href={member.linkedIn} className="text-blue-500 hover:text-blue-400 transition-transform transform hover:scale-110" aria-label="LinkedIn">
+        <a target='_blank' href={`https://www.linkedin.com/in/${member.linkedIn}`} className="text-blue-500 hover:text-blue-400 transition-transform transform hover:scale-110" aria-label="LinkedIn">
           <FaLinkedin size={28} />
         </a>
       </nav>
