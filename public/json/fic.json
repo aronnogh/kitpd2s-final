@@ -1,0 +1,20 @@
+[
+    {
+        "id":1,
+        "name": "Dr. B. Surekha",
+        "designation": "Professor & Dean",
+        "of": "KIIT University",
+        "desigInBranch": "Dean of Mechanical Dept.",
+        "img": "/aboutUs/dean.jpg",
+        "desc": "Dr. B. Surekha, Dean of the Mechanical Engineering Department, plays a pivotal role in driving KITPD2S's vision. Her dedicated efforts foster innovation and excellence within the society, emphasizing Industry 4.0 technologies. By mentoring students, promoting research, and supporting projects, she ensures a collaborative environment for growth. Her guidance inspires members to achieve academic and professional milestones, making KITPD2S a hub of creativity and technological advancement."
+    },
+    {
+        "id":2,
+        "name": "Dr. Anish Pandey",
+        "designation": "Faculty In-Charge",
+        "of": "KITPD2S Society",
+        "desigInBranch": "Professor in Mechanical Dept.",
+        "img": "/aboutUs/fic.jpg",
+        "desc": "Dr. Anish Pandey, FIC of KITPD2S and a professor in the Mechanical Engineering department, plays a pivotal role in advancing the society's mission. With expertise in Industrial 4.0 technologies, he guides students in innovative research, fostering creativity and real-world problem-solving. His mentorship empowers members to transform ideas into impactful solutions, promoting interdisciplinary collaboration. Dr. Pandey's dedication has positioned KITPD2S as a hub for innovation and practical learning."
+    }
+]
