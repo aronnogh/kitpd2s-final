@@ -1,0 +1,28 @@
+[
+    {
+      "id": 1,
+      "title": "TechFrontier",
+      "date": "19 January, 2024",
+      "venue": "KIIT Auditorium, Campus: 08",
+      "description": "TechFrontier is a dynamic, innovation-driven event that brings together tech enthusiasts, developers, and innovators to explore cutting-edge technologies and futuristic solutions. Featuring hands-on workshops, hackathons, insightful talks, and networking opportunities, the event aims to foster creativity, collaboration, and knowledge sharing. It serves as a platform to showcase breakthrough ideas and connect with industry experts, empowering participants to shape the future of technology.",
+      "image": "https://i.ibb.co/dbx2pNr/techfrontier.png"
+    },
+    {
+      "id": 2,
+      "title": "AI Connect",
+      "date": "25 February, 2024",
+      "venue": "KIIT Seminar Hall, Campus: 06",
+      "description": "AI Connect is an immersive event dedicated to artificial intelligence. Engage with workshops, panel discussions, and live demonstrations by leading AI experts. Discover the latest innovations and explore the transformative power of AI across industries.",
+      "image": "https://i.ibb.co/dbx2pNr/techfrontier.png"
+
+    },
+    {
+        "id": 3,
+        "title": "Tech Connect",
+        "date": "25 March, 2024",
+        "venue": "KIIT Seminar Hall, Campus: 06",
+        "description": "AI Connect is an immersive event dedicated to artificial intelligence. Engage with workshops, panel discussions, and live demonstrations by leading AI experts. Discover the latest innovations and explore the transformative power of AI across industries.",
+      "image": "https://i.ibb.co/dbx2pNr/techfrontier.png"
+
+      }
+    ]

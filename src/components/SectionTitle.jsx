@@ -16,3 +16,6 @@ const SectionTitle = ({ titleText, border }) => {
 };
 
 export default SectionTitle;
+
+
+

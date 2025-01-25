@@ -1,0 +1,62 @@
+[
+    {
+        "id":1,
+        "name": "Koushik Paul",
+        "designation": "Vice-President, Markating head ,Patent Lead(Markating), Head of Research",
+        "desigInBranch": "Mechanical Engineering",
+        "of": "KIIT University",
+        "img": "/teamLeads/vp.jpg",
+        "insta": "_koushik_paul__",
+        "linkedIn": "koushik-paul-618294271"
+    },
+    {
+        "id":2,
+        "name": "RAJ SAURAV PARIDA",
+        "designation": "Patent Head,Secretary",
+        "desigInBranch": "Mechanical Engineering",
+        "of": "KIIT University",
+        "img": "/teamLeads/secretary.jpg",
+        "insta": "raj.saurav.2004",
+        "linkedIn": "raj-saurav-parida-74798321b"
+    },
+    {
+        "id":3,
+        "name": "AAYUSH ARORA",
+        "designation": "Head Co-ordinator, Project lead",
+        "desigInBranch": "Computer Science Engineering",
+        "of": "KIIT University",
+        "img": "/teamLeads/HCO.jpg",
+        "insta": "aaaayu.zz",
+        "linkedIn": "aayush-arora-bb8529252"
+    },
+    {
+        "id":4,
+        "name": "SOURISH DEY",
+        "designation": "Operation Team Lead,Associate Marketing Head , Associate Research Head ",
+        "desigInBranch": "Computer Science Engineering",
+        "of": "KIIT University",
+        "img": "/teamLeads/OL.jpg",
+        "insta": "sourish_dey_",
+        "linkedIn": "sourish-dey-20b170206"
+    },
+    {
+        "id":5,
+        "name": "JIYA JAISWAL",
+        "designation": "Associate Operations Head, Associate Graphics Lead, Associate Marketing Lead",
+        "desigInBranch": "Computer Science Engineering",
+        "of": "KIIT University",
+        "img": "/teamLeads/AOH.jpg",
+        "insta": "___jiyaaa_",
+        "linkedIn": "jiya-jaiswal"
+    },
+    {
+        "id":5,
+        "name": "KOUSHIK GHOSH ARONNO",
+        "designation": "Software Development Lead, Database Administrator, Administrator of Event Management",
+        "desigInBranch": "Electronics and Electrical Engineering",
+        "of": "KIIT University",
+        "img": "/teamLeads/WAL.jpg",
+        "insta": "koushik_aronno_647433",
+        "linkedIn": "aronnogh647433"
+    }
+]
